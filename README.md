@@ -15,7 +15,7 @@ Each repository explains the intended experience, implementation, verification p
 | [**CLAW — education agent**](https://github.com/Leonxu6/school-claw) | How can parents and teachers use a shared assistant while keeping each child’s records appropriately scoped? | Role-scoped reads and writes, persistent learning observations, and an OpenClaw integration harness. |
 | [**DataSteward**](https://github.com/Leonxu6/datasteward) | What controls are needed before an AI agent can help with operational data? | A synthetic manufacturing-data workflow, governed tools, access policies, action previews, and rollback. |
 | [**Cyber-Superego**](https://github.com/Leonxu6/wakeupagent) | How could a desktop assistant notice a distraction without making its own interventions disruptive? | Local visual perception, contextual classification, agent memory, and opt-in desktop actions. |
-| [**Wren**](https://github.com/Leonxu6/wren-agent) | How can an AI character maintain continuity while preserving boundaries and a distinct voice? | A Telegram relationship-simulation prototype with separate decision and speech stages, memory, and an offline evaluation harness. |
+| [**Wren**](https://github.com/Leonxu6/Wren) | How can an AI character maintain continuity while preserving boundaries and a distinct voice? | A Telegram relationship-simulation prototype with separate decision and speech stages, memory, and an offline evaluation harness. |
 | [**Minecraft AI Companion**](https://github.com/Leonxu6/Minecraft_player) | How can a game companion combine task execution with conversation? | Separate task and conversation agents connected to a Mineflayer control bridge. |
 
 ## What I bring to a small team
